@@ -1,0 +1,9 @@
+## Interface: 40200
+## Title: Dominos Specs
+## Version: 1
+## Notes: Swaps your current profile based on your current spec.
+## Author: Goranaws
+## SavedVariables: DominosSpecs
+## Dependencies: Dominos
+
+Dominos_Specs.lua
