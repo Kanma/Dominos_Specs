@@ -4,7 +4,12 @@
 ## Notes: Swaps your current profile based on your current spec.
 ## Author: Goranaws
 ## SavedVariables: DominosSpecs
+<<<<<<< HEAD
 ## Dependencies: Dominos
 ## OptionalDependencies: Dominos_Config
 
 Dominos_Specs.lua
+=======
+## Dependencies: Dominos, Dominos_Config
+Dominos_Specs.lua
+>>>>>>> Preparing for full release on Curse.com
