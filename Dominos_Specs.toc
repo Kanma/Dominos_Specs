@@ -2,15 +2,8 @@
 ## Title: Dominos Specs
 ## Version: 1
 ## Notes: Swaps your current profile based on your current spec.
-<<<<<<< HEAD
 ## Author: Goranaws
 ## SavedVariables: DominosSpecs
 ## Dependencies: Dominos, Dominos_Config
 
 Dominos_Specs.lua
-=======
-## Author: Goranaws
-## SavedVariablesPerCharacter: DominosSpecs
-## Dependencies: Dominos, Dominos_Config
-Dominos_Specs.lua
->>>>>>> Finished
