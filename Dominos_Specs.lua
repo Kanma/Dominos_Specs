@@ -5,14 +5,14 @@ function Dominos_Specs:SwapProfiles()
 	if DominosSpecs.Enable then
 		if DominosSpecs.TreeBased then
 			Dominos_Specs:SetScript("OnEvent", function() 
-				local tree = GetPrimaryTalentTree();
+				local tree = GetSpecialization();
 				if (Dominos.db:GetCurrentProfile() ~= DominosSpecs.Tree[tree]) and (tree ~= 'None') then
 					Dominos:SetProfile(DominosSpecs.Tree[tree]);
 				end
 			end)
 		elseif DominosSpecs.SpecBased  then
 			Dominos_Specs:SetScript("OnEvent", function() 
-				local spec = GetActiveTalentGroup();
+				local spec = GetActiveSpecGroup();
 				if (Dominos.db:GetCurrentProfile() ~= DominosSpecs.Spec[spec]) and (spec ~= 'None') then
 					Dominos:SetProfile(DominosSpecs.Spec[spec]);
 				end
