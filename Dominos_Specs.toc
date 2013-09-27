@@ -1,4 +1,4 @@
-## Interface: 40200
+## Interface: 50400
 ## Title: Dominos Specs
 ## Version: 1
 ## Notes: Swaps your current profile based on your current spec.
