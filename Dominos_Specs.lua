@@ -1,3 +1,6 @@
+DominosSpecs = {}   -- The saved variable
+
+
 local Dominos_Specs = CreateFrame("Frame")
 Dominos_Specs:RegisterEvent("PLAYER_TALENT_UPDATE")
 
