@@ -1,6 +1,6 @@
 ## Interface: 50400
 ## Title: Dominos Specs
-## Version: 1
+## Version: 1.6
 ## Notes: Swaps your current profile based on your current spec.
 ## Author: Goranaws
 ## SavedVariablesPerCharacter: DominosSpecs
